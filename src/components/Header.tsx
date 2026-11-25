@@ -1691,7 +1691,7 @@ Flowonline2 is a web-based replica of Flowgorithm (Windows version 2.0.3).
     if (showAbout) {
       setLicenseText('Loading license from GitHub...');
       setLicenseSource('repo');
-      fetch('https://raw.githubusercontent.com/PiBOH/flowonline2/refs/heads/main/LICENSE')
+      fetch('https://raw.githubusercontent.com/NewstarCoder/flowchart/refs/heads/main/LICENSE')
         .then((res) => {
           if (!res.ok) {
             throw new Error('LICENSE not found in remote repo.');
@@ -1727,7 +1727,7 @@ Flowonline2 is a web-based replica of Flowgorithm (Windows version 2.0.3).
     if (showManual) {
       setManualText('Loading user manual from GitHub...');
       setManualSource('repo');
-      fetch('https://raw.githubusercontent.com/PiBOH/flowonline2/refs/heads/main/MANUAL.md')
+      fetch('https://raw.githubusercontent.com/NewstarCoder/flowchart/refs/heads/main/MANUAL.md')
         .then((res) => {
           if (!res.ok) {
             throw new Error('MANUAL.md not found in remote repo.');
@@ -1762,7 +1762,7 @@ Flowonline2 is a web-based replica of Flowgorithm (Windows version 2.0.3).
     if (showChangelog) {
       setChangelogText('Loading changelog from GitHub...');
       setChangelogSource('repo');
-      fetch('https://raw.githubusercontent.com/PiBOH/flowonline2/refs/heads/main/CHANGELOG.md')
+      fetch('https://raw.githubusercontent.com/NewstarCoder/flowchart/refs/heads/main/CHANGELOG.md')
         .then((res) => {
           if (!res.ok) {
             throw new Error('CHANGELOG.md not found in remote repo.');
@@ -1797,7 +1797,7 @@ Flowonline2 is a web-based replica of Flowgorithm (Windows version 2.0.3).
     if (showSecurity) {
       setSecurityText('Loading security policy from GitHub...');
       setSecuritySource('repo');
-      fetch('https://raw.githubusercontent.com/PiBOH/flowonline2/refs/heads/main/docs/SECURITY.md')
+      fetch('https://raw.githubusercontent.com/NewstarCoder/flowchart/refs/heads/main/docs/SECURITY.md')
         .then((res) => {
           if (!res.ok) {
             throw new Error('SECURITY.md not found in remote repo.');
@@ -1832,7 +1832,7 @@ Flowonline2 is a web-based replica of Flowgorithm (Windows version 2.0.3).
     if (showPrivacy) {
       setPrivacyText('Loading privacy policy from GitHub...');
       setPrivacySource('repo');
-      fetch('https://raw.githubusercontent.com/PiBOH/flowonline2/refs/heads/main/docs/PRIVACY.md')
+      fetch('https://raw.githubusercontent.com/NewstarCoder/flowchart/refs/heads/main/docs/PRIVACY.md')
         .then((res) => {
           if (!res.ok) {
             throw new Error('PRIVACY.md not found in remote repo.');
@@ -1867,7 +1867,7 @@ Flowonline2 is a web-based replica of Flowgorithm (Windows version 2.0.3).
     if (showDisclaimer) {
       setDisclaimerText('Loading disclaimer from GitHub...');
       setDisclaimerSource('repo');
-      fetch('https://raw.githubusercontent.com/PiBOH/flowonline2/refs/heads/main/docs/DISCLAIMER.md')
+      fetch('https://raw.githubusercontent.com/NewstarCoder/flowchart/refs/heads/main/docs/DISCLAIMER.md')
         .then((res) => {
           if (!res.ok) {
             throw new Error('DISCLAIMER.md not found in remote repo.');
@@ -2787,12 +2787,12 @@ Flowonline2 is a web-based replica of Flowgorithm (Windows version 2.0.3).
                 <span><IconInfo size={14} /> {mt.about}</span>
               </button>
               <div className="border-t border-[#DDD] my-0.5"></div>
-              <a href="https://github.com/PiBOH/flowonline2/issues/new/choose" target="_blank" rel="noopener noreferrer" onClick={() => setActiveDropdown(null)} className="w-full text-left px-3 py-1.5 hover:bg-[#C9DEF5] flex items-center text-slate-800 no-underline">
+              <a href="https://github.com/NewstarCoder/flowchart/issues/new/choose" target="_blank" rel="noopener noreferrer" onClick={() => setActiveDropdown(null)} className="w-full text-left px-3 py-1.5 hover:bg-[#C9DEF5] flex items-center text-slate-800 no-underline">
                 <span>🐛 {mt.bugReport}</span>
               </a>
-              <a href="https://github.com/PiBOH/flowonline2/issues/new/choose" target="_blank" rel="noopener noreferrer" onClick={() => setActiveDropdown(null)} className="w-full text-left px-3 py-1.5 hover:bg-[#C9DEF5] flex items-center text-slate-800 no-underline">                  <span><IdeaLightbulb size={14} /> {mt.featureRequest}</span>
+              <a href="https://github.com/NewstarCoder/flowchart/issues/new/choose" target="_blank" rel="noopener noreferrer" onClick={() => setActiveDropdown(null)} className="w-full text-left px-3 py-1.5 hover:bg-[#C9DEF5] flex items-center text-slate-800 no-underline">                  <span><IdeaLightbulb size={14} /> {mt.featureRequest}</span>
               </a>
-              <a href="https://github.com/PiBOH/flowonline2/fork" target="_blank" rel="noopener noreferrer" onClick={() => setActiveDropdown(null)} className="w-full text-left px-3 py-1.5 hover:bg-[#C9DEF5] flex items-center text-slate-800 no-underline">
+              <a href="https://github.com/NewstarCoder/flowchart/fork" target="_blank" rel="noopener noreferrer" onClick={() => setActiveDropdown(null)} className="w-full text-left px-3 py-1.5 hover:bg-[#C9DEF5] flex items-center text-slate-800 no-underline">
                 <span>🔀 {mt.forkContribute}</span>
               </a>
             </div>
@@ -3106,7 +3106,7 @@ Flowonline2 is a web-based replica of Flowgorithm (Windows version 2.0.3).
                   {mt.aboutWebsite}: <a href="https://piboh.github.io" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">piboh.github.io</a>
                 </p>
                 <p className="text-[12px] text-slate-500">
-                  {mt.aboutRepo}: <a href="https://github.com/PiBOH/flowonline2" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">github.com/PiBOH/flowonline2</a>
+                  {mt.aboutRepo}: <a href="https://github.com/NewstarCoder/flowchart" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">github.com/NewstarCoder/flowchart</a>
                 </p>
               </div>
             </div>
@@ -3483,8 +3483,8 @@ Flowonline2 is a web-based replica of Flowgorithm (Windows version 2.0.3).
               <button onClick={() => { setShowAbout(true); setMobileMenuOpen(false); }} className="w-full text-left px-3 py-2 rounded hover:bg-slate-100 text-sm">• {mt.about}</button>
               <button onClick={() => { setShowManual(true); setMobileMenuOpen(false); }} className="w-full text-left px-3 py-2 rounded hover:bg-slate-100 text-sm">• {mt.manualMenuOption}</button>
               <button onClick={() => { setShowChangelog(true); setMobileMenuOpen(false); }} className="w-full text-left px-3 py-2 rounded hover:bg-slate-100 text-sm">• {mt.changelogMenuOption}</button>
-              <a href="https://github.com/PiBOH/flowonline2/issues/new/choose" target="_blank" rel="noopener noreferrer" className="block px-3 py-2 rounded hover:bg-slate-100 text-sm">• {mt.bugReport}</a>
-              <a href="https://github.com/PiBOH/flowonline2/issues/new/choose" target="_blank" rel="noopener noreferrer" className="block px-3 py-2 rounded hover:bg-slate-100 text-sm">• {mt.featureRequest}</a>
+              <a href="https://github.com/NewstarCoder/flowchart/issues/new/choose" target="_blank" rel="noopener noreferrer" className="block px-3 py-2 rounded hover:bg-slate-100 text-sm">• {mt.bugReport}</a>
+              <a href="https://github.com/NewstarCoder/flowchart/issues/new/choose" target="_blank" rel="noopener noreferrer" className="block px-3 py-2 rounded hover:bg-slate-100 text-sm">• {mt.featureRequest}</a>
             </div>
           </div>
         </>

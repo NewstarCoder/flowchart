@@ -15,7 +15,7 @@ Choose your language / Scegli la lingua / Wählen Sie Ihre Sprache / Choisissez 
 
 ### Supported Versions
 
-Security updates are applied to the latest release only. Older beta releases are not actively patched; please upgrade to the most recent version from the [Releases](https://github.com/PiBOH/flowonline2/releases) page.
+Security updates are applied to the latest release only. Older beta releases are not actively patched; please upgrade to the most recent version from the [Releases](https://github.com/NewstarCoder/flowchart/releases) page.
 
 | Version | Supported |
 | :--- | :--- |
@@ -27,7 +27,7 @@ Security updates are applied to the latest release only. Older beta releases are
 Flowonline2 is a static, client-side web application. It stores no user data on any server and runs entirely in the browser, which reduces the attack surface. If you still find a security issue:
 
 1. **Do not open a public issue.** Report it privately so it can be fixed before disclosure.
-2. Send a detailed description to the maintainer **PiBOH** through the repository's private security advisory form: **https://github.com/PiBOH/flowonline2/security/advisories/new**
+2. Send a detailed description to the maintainer **PiBOH** through the repository's private security advisory form: **https://github.com/NewstarCoder/flowchart/security/advisories/new**
 3. Include the version, the affected file/URL, steps to reproduce, and any proof-of-concept.
 
 ### Disclosure Policy
@@ -49,7 +49,7 @@ Out of scope: third-party services the application links to, browser extensions,
 
 ### Versioni Supportate
 
-Gli aggiornamenti di sicurezza vengono applicati solo all'ultima release. Le versioni beta precedenti non vengono corrette attivamente; aggiorna all'ultima versione dalla pagina [Releases](https://github.com/PiBOH/flowonline2/releases).
+Gli aggiornamenti di sicurezza vengono applicati solo all'ultima release. Le versioni beta precedenti non vengono corrette attivamente; aggiorna all'ultima versione dalla pagina [Releases](https://github.com/NewstarCoder/flowchart/releases).
 
 | Versione | Supportata |
 | :--- | :--- |
@@ -61,7 +61,7 @@ Gli aggiornamenti di sicurezza vengono applicati solo all'ultima release. Le ver
 Flowonline2 è un'applicazione web statica, lato client. Non memorizza dati utente su alcun server e funziona interamente nel browser, riducendo la superficie d'attacco. Se trovi comunque un problema di sicurezza:
 
 1. **Non aprire un issue pubblico.** Segnalalo privatamente così può essere corretto prima della divulgazione.
-2. Invia una descrizione dettagliata al maintainer **PiBOH** tramite il modulo privato di advisory di sicurezza del repository: **https://github.com/PiBOH/flowonline2/security/advisories/new**
+2. Invia una descrizione dettagliata al maintainer **PiBOH** tramite il modulo privato di advisory di sicurezza del repository: **https://github.com/NewstarCoder/flowchart/security/advisories/new**
 3. Includi versione, file/URL interessato, passaggi per riprodurre ed eventuale proof-of-concept.
 
 ### Politica di Divulgazione
@@ -83,7 +83,7 @@ Fuori ambito: i servizi di terze parti a cui l'applicazione rimanda, le estensio
 
 ### Unterstützte Versionen
 
-Sicherheitsupdates werden nur auf die neueste Version angewendet. Ältere Beta-Versionen werden nicht aktiv gepatcht; bitte aktualisieren Sie auf die neueste Version von der [Releases](https://github.com/PiBOH/flowonline2/releases)-Seite.
+Sicherheitsupdates werden nur auf die neueste Version angewendet. Ältere Beta-Versionen werden nicht aktiv gepatcht; bitte aktualisieren Sie auf die neueste Version von der [Releases](https://github.com/NewstarCoder/flowchart/releases)-Seite.
 
 | Version | Unterstützt |
 | :--- | :--- |
@@ -95,7 +95,7 @@ Sicherheitsupdates werden nur auf die neueste Version angewendet. Ältere Beta-V
 Flowonline2 ist eine statische, clientseitige Webanwendung. Sie speichert keine Benutzerdaten auf einem Server und läuft vollständig im Browser, wodurch die Angriffsfläche reduziert wird. Falls Sie dennoch ein Sicherheitsproblem finden:
 
 1. **Eröffnen Sie kein öffentliches Issue.** Melden Sie es privat, damit es vor der Veröffentlichung behoben werden kann.
-2. Senden Sie eine detaillierte Beschreibung an den Maintainer **PiBOH** über das private Sicherheits-Advisory-Formular des Repositorys: **https://github.com/PiBOH/flowonline2/security/advisories/new**
+2. Senden Sie eine detaillierte Beschreibung an den Maintainer **PiBOH** über das private Sicherheits-Advisory-Formular des Repositorys: **https://github.com/NewstarCoder/flowchart/security/advisories/new**
 3. Fügen Sie die Version, die betroffene Datei/URL, Schritte zur Reproduktion und einen eventuellen Proof-of-Concept bei.
 
 ### Offenlegungsrichtlinie
@@ -117,7 +117,7 @@ Außerhalb des Umfangs: Dienste von Drittanbietern, auf die die Anwendung verwei
 
 ### Versions prises en charge
 
-Les mises à jour de sécurité ne s'appliquent qu'à la dernière version. Les anciennes versions bêta ne sont pas corrigées activement ; veuillez mettre à jour vers la dernière version depuis la page [Releases](https://github.com/PiBOH/flowonline2/releases).
+Les mises à jour de sécurité ne s'appliquent qu'à la dernière version. Les anciennes versions bêta ne sont pas corrigées activement ; veuillez mettre à jour vers la dernière version depuis la page [Releases](https://github.com/NewstarCoder/flowchart/releases).
 
 | Version | Prise en charge |
 | :--- | :--- |
@@ -129,7 +129,7 @@ Les mises à jour de sécurité ne s'appliquent qu'à la dernière version. Les 
 Flowonline2 est une application web statique, côté client. Elle ne stocke aucune donnée utilisateur sur un serveur et fonctionne entièrement dans le navigateur, ce qui réduit la surface d'attaque. Si vous trouvez quand même un problème de sécurité :
 
 1. **N'ouvrez pas d'issue publique.** Signalez-le en privé afin qu'il puisse être corrigé avant la divulgation.
-2. Envoyez une description détaillée au mainteneur **PiBOH** via le formulaire privé d'advisory de sécurité du dépôt : **https://github.com/PiBOH/flowonline2/security/advisories/new**
+2. Envoyez une description détaillée au mainteneur **PiBOH** via le formulaire privé d'advisory de sécurité du dépôt : **https://github.com/NewstarCoder/flowchart/security/advisories/new**
 3. Incluez la version, le fichier/URL concerné, les étapes de reproduction et toute preuve de concept.
 
 ### Politique de divulgation
@@ -151,7 +151,7 @@ Hors périmètre : les services tiers vers lesquels l'application pointe, les ex
 
 ### Versiones compatibles
 
-Las actualizaciones de seguridad se aplican únicamente a la última versión. Las versiones beta anteriores no se corrigen activamente; actualice a la última versión desde la página de [Releases](https://github.com/PiBOH/flowonline2/releases).
+Las actualizaciones de seguridad se aplican únicamente a la última versión. Las versiones beta anteriores no se corrigen activamente; actualice a la última versión desde la página de [Releases](https://github.com/NewstarCoder/flowchart/releases).
 
 | Versión | Compatible |
 | :--- | :--- |
@@ -163,7 +163,7 @@ Las actualizaciones de seguridad se aplican únicamente a la última versión. L
 Flowonline2 es una aplicación web estática, del lado del cliente. No almacena datos de usuario en ningún servidor y funciona íntegramente en el navegador, lo que reduce la superficie de ataque. Si aun así encuentra un problema de seguridad:
 
 1. **No abra un issue público.** Repórtelo de forma privada para que pueda corregirse antes de la divulgación.
-2. Envíe una descripción detallada al mantenedor **PiBOH** a través del formulario privado de advisory de seguridad del repositorio: **https://github.com/PiBOH/flowonline2/security/advisories/new**
+2. Envíe una descripción detallada al mantenedor **PiBOH** a través del formulario privado de advisory de seguridad del repositorio: **https://github.com/NewstarCoder/flowchart/security/advisories/new**
 3. Incluya la versión, el archivo/URL afectado, los pasos para reproducirlo y cualquier prueba de concepto.
 
 ### Política de divulgación

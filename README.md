@@ -5,44 +5,44 @@
 </p>
 
 <p align="center">
-  <a href="https://piboh.github.io/flowonline2/">
+  <a href="https://newstarcoder.github.io/flowchart/">
     <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fpiboh.github.io%2Fflowonline2%2F&label=Visitors&icon=stars&color=%23198754&style=for-the-badge&tz=UTC" alt="Visitor Badge" />
   </a>
-  <img alt="GitHub License" src="https://img.shields.io/github/license/PiBOH/flowonline2?style=for-the-badge&color=0066cc&cacheSeconds=60&link=https%3A%2F%2Fgithub.com%2FPiBOH%2Fflowonline2%2Fblob%2Fmain%2FLICENSE">
-  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/PiBOH/flowonline2?include_prereleases&display_name=release&style=for-the-badge&label=VERSION&color=009933&cacheSeconds=60">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/NewstarCoder/flowchart?style=for-the-badge&color=0066cc&cacheSeconds=60&link=https%3A%2F%2Fgithub.com%2FPiBOH%2Fflowonline2%2Fblob%2Fmain%2FLICENSE">
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/NewstarCoder/flowchart?include_prereleases&display_name=release&style=for-the-badge&label=VERSION&color=009933&cacheSeconds=60">
 </p>
 
 ---
 
 **Flowonline2** is a pixel-perfect, 1000% faithful web-based clone of the popular educational flowchart editor and interpreter **Flowgorithm (Windows version 4.5)**. Developed by **PiBOH** under AGPL-3.0.
 
-> 🔗 **Launch the App:** [piboh.github.io/flowonline2](https://piboh.github.io/flowonline2/)  
+> 🔗 **Launch the App:** [newstarcoder.github.io/flowchart](https://newstarcoder.github.io/flowchart/)  
 
 ---
 
 ## ⚠️ Mandatory for contributors and AI agents
 
-Every contributor — human or AI — **must** read and follow [**AGENTS.md**](https://github.com/PiBOH/flowonline2/blob/main/AGENTS.md) before creating, editing or deleting any file, and **must** update it (together with `CHANGELOG.md` and `version.txt`) on every release. `AGENTS.md` is the authoritative instruction file of this repository: if any other document contradicts it, `AGENTS.md` wins. Commits carry no `Co-authored-by:` trailer and no "generated with" footer.
+Every contributor — human or AI — **must** read and follow [**AGENTS.md**](https://github.com/NewstarCoder/flowchart/blob/main/AGENTS.md) before creating, editing or deleting any file, and **must** update it (together with `CHANGELOG.md` and `version.txt`) on every release. `AGENTS.md` is the authoritative instruction file of this repository: if any other document contradicts it, `AGENTS.md` wins. Commits carry no `Co-authored-by:` trailer and no "generated with" footer.
 
 ---
 
 ## 📚 Multilingual Documentation (MANUAL.md)
 
-For detailed information on variables, mathematical expressions, conversion intrinsics, and file architectures, please read the complete [**MANUAL.md**](https://github.com/PiBOH/flowonline2/blob/main/MANUAL.md) file:
+For detailed information on variables, mathematical expressions, conversion intrinsics, and file architectures, please read the complete [**MANUAL.md**](https://github.com/NewstarCoder/flowchart/blob/main/MANUAL.md) file:
 
-*   🌐 [**English Manual (US/UK)**](https://github.com/PiBOH/flowonline2/blob/main/MANUAL.md#english)
-*   🇮🇹 [**Manuale Italiano**](https://github.com/PiBOH/flowonline2/blob/main/MANUAL.md#italiano)
-*   🇩🇪 [**Deutsches Handbuch**](https://github.com/PiBOH/flowonline2/blob/main/MANUAL.md#deutsch)
-*   🇫🇷 [**Manuel Français**](https://github.com/PiBOH/flowonline2/blob/main/MANUAL.md#français)
-*   🇪🇸 [**Manual Español**](https://github.com/PiBOH/flowonline2/blob/main/MANUAL.md#español)
+*   🌐 [**English Manual (US/UK)**](https://github.com/NewstarCoder/flowchart/blob/main/MANUAL.md#english)
+*   🇮🇹 [**Manuale Italiano**](https://github.com/NewstarCoder/flowchart/blob/main/MANUAL.md#italiano)
+*   🇩🇪 [**Deutsches Handbuch**](https://github.com/NewstarCoder/flowchart/blob/main/MANUAL.md#deutsch)
+*   🇫🇷 [**Manuel Français**](https://github.com/NewstarCoder/flowchart/blob/main/MANUAL.md#français)
+*   🇪🇸 [**Manual Español**](https://github.com/NewstarCoder/flowchart/blob/main/MANUAL.md#español)
 
 ---
 
 ## 📄 Policies
 
-*   🔐 [**Security Policy**](https://github.com/PiBOH/flowonline2/blob/main/docs/SECURITY.md)
-*   🛡️ [**Privacy Policy**](https://github.com/PiBOH/flowonline2/blob/main/docs/PRIVACY.md)
-*   ⚖️ [**Disclaimer**](https://github.com/PiBOH/flowonline2/blob/main/docs/DISCLAIMER.md)
+*   🔐 [**Security Policy**](https://github.com/NewstarCoder/flowchart/blob/main/docs/SECURITY.md)
+*   🛡️ [**Privacy Policy**](https://github.com/NewstarCoder/flowchart/blob/main/docs/PRIVACY.md)
+*   ⚖️ [**Disclaimer**](https://github.com/NewstarCoder/flowchart/blob/main/docs/DISCLAIMER.md)
 
 ---
 
@@ -82,7 +82,7 @@ Flowonline2 is built using **React 18**, **TypeScript**, and **Tailwind CSS**. T
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/PiBOH/flowonline2.git
+git clone https://github.com/NewstarCoder/flowchart.git
 cd flowonline2
 
 # 2. Install dependencies

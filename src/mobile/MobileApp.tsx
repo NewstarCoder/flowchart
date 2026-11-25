@@ -17,7 +17,7 @@ import { IconChart, IconPencil, IconPlay, IconChatBubble, IconTools, IconInfo } 
 const VIEW_KEY = 'flowonline2_mobile_view';
 const VALID_VIEWS: MobileViewId[] = ['canvas', 'edit', 'run', 'console', 'tools'];
 const RTL_LANGS = new Set(['ar', 'he', 'fa']);
-const ISSUE_URL = 'https://github.com/PiBOH/flowonline2/issues/new/choose';
+const ISSUE_URL = 'https://github.com/NewstarCoder/flowchart/issues/new/choose';
 
 const MobileApp: React.FC = () => {
   const flow = useFlow();
@@ -190,7 +190,7 @@ const MobileApp: React.FC = () => {
             onClearStorage={() => setDialog('clear')}
             onExportSvg={handleSvg} onExportPng={handlePng} onExportPdf={handlePdf}
             onBugReport={() => openExternal(ISSUE_URL)} onFeatureRequest={() => openExternal(ISSUE_URL)}
-            onForkContribute={() => openExternal('https://github.com/PiBOH/flowonline2/fork')}
+            onForkContribute={() => openExternal('https://github.com/NewstarCoder/flowchart/fork')}
           />}
         </main>
         <M2BottomNav value={view} items={navItems} onChange={selectView} />
@@ -206,7 +206,7 @@ const MobileApp: React.FC = () => {
         onShowChangelog={() => setDialog('changelog')} onShowSecurity={() => setDialog('security')} onShowPrivacy={() => setDialog('privacy')}
         onShowDisclaimer={() => setDialog('disclaimer')}
         onBugReport={() => openExternal(ISSUE_URL)}
-        onFeatureRequest={() => openExternal(ISSUE_URL)} onForkContribute={() => openExternal('https://github.com/PiBOH/flowonline2/fork')}
+        onFeatureRequest={() => openExternal(ISSUE_URL)} onForkContribute={() => openExternal('https://github.com/NewstarCoder/flowchart/fork')}
         onPickLanguage={() => setLanguageOpen(true)} canUndo={flow.canUndo} canRedo={flow.canRedo}
       />
       <MobileLanguageSheet open={languageOpen} onClose={() => setLanguageOpen(false)} />

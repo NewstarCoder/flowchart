@@ -15,7 +15,7 @@ Choose your language / Scegli la lingua / Wählen Sie Ihre Sprache / Choisissez 
 
 ### 1. Who We Are
 
-This Privacy Policy explains how **Flowonline2** (developed by **PiBOH**, https://github.com/PiBOH/flowonline2) handles information when you use the application.
+This Privacy Policy explains how **Flowonline2** (developed by **PiBOH**, https://github.com/NewstarCoder/flowchart) handles information when you use the application.
 
 ### 2. Data We Collect
 
@@ -49,7 +49,7 @@ We may update this policy from time to time. The latest version is always availa
 
 ### 7. Contact
 
-For privacy questions, open an issue or use the repository contact methods at https://github.com/PiBOH/flowonline2.
+For privacy questions, open an issue or use the repository contact methods at https://github.com/NewstarCoder/flowchart.
 
 ---
 
@@ -58,7 +58,7 @@ For privacy questions, open an issue or use the repository contact methods at ht
 
 ### 1. Chi Siamo
 
-Questa informativa spiega come **Flowonline2** (sviluppato da **PiBOH**, https://github.com/PiBOH/flowonline2) gestisce le informazioni quando usi l'applicazione.
+Questa informativa spiega come **Flowonline2** (sviluppato da **PiBOH**, https://github.com/NewstarCoder/flowchart) gestisce le informazioni quando usi l'applicazione.
 
 ### 2. Dati che Raccogliamo
 
@@ -92,7 +92,7 @@ Potremmo aggiornare questa informativa periodicamente. La versione più recente 
 
 ### 7. Contatti
 
-Per domande sulla privacy, apri un issue o usa i metodi di contatto del repository su https://github.com/PiBOH/flowonline2.
+Per domande sulla privacy, apri un issue o usa i metodi di contatto del repository su https://github.com/NewstarCoder/flowchart.
 
 ---
 
@@ -101,7 +101,7 @@ Per domande sulla privacy, apri un issue o usa i metodi di contatto del reposito
 
 ### 1. Wer wir sind
 
-Diese Datenschutzerklärung erläutert, wie **Flowonline2** (entwickelt von **PiBOH**, https://github.com/PiBOH/flowonline2) mit Informationen umgeht, wenn Sie die Anwendung nutzen.
+Diese Datenschutzerklärung erläutert, wie **Flowonline2** (entwickelt von **PiBOH**, https://github.com/NewstarCoder/flowchart) mit Informationen umgeht, wenn Sie die Anwendung nutzen.
 
 ### 2. Welche Daten wir erheben
 
@@ -135,7 +135,7 @@ Wir können diese Erklärung von Zeit zu Zeit aktualisieren. Die neueste Version
 
 ### 7. Kontakt
 
-Bei Fragen zum Datenschutz eröffnen Sie ein Issue oder nutzen Sie die Kontaktmöglichkeiten des Repositorys unter https://github.com/PiBOH/flowonline2.
+Bei Fragen zum Datenschutz eröffnen Sie ein Issue oder nutzen Sie die Kontaktmöglichkeiten des Repositorys unter https://github.com/NewstarCoder/flowchart.
 
 ---
 
@@ -144,7 +144,7 @@ Bei Fragen zum Datenschutz eröffnen Sie ein Issue oder nutzen Sie die Kontaktm�
 
 ### 1. Qui nous sommes
 
-Cette politique de confidentialité explique comment **Flowonline2** (développé par **PiBOH**, https://github.com/PiBOH/flowonline2) traite les informations lorsque vous utilisez l'application.
+Cette politique de confidentialité explique comment **Flowonline2** (développé par **PiBOH**, https://github.com/NewstarCoder/flowchart) traite les informations lorsque vous utilisez l'application.
 
 ### 2. Données que nous collectons
 
@@ -178,7 +178,7 @@ Nous pouvons mettre à jour cette politique de temps à autre. La version la plu
 
 ### 7. Contact
 
-Pour toute question relative à la confidentialité, ouvrez une issue ou utilisez les méthodes de contact du dépôt sur https://github.com/PiBOH/flowonline2.
+Pour toute question relative à la confidentialité, ouvrez une issue ou utilisez les méthodes de contact du dépôt sur https://github.com/NewstarCoder/flowchart.
 
 ---
 
@@ -187,7 +187,7 @@ Pour toute question relative à la confidentialité, ouvrez une issue ou utilise
 
 ### 1. Quiénes somos
 
-Esta política de privacidad explica cómo **Flowonline2** (desarrollado por **PiBOH**, https://github.com/PiBOH/flowonline2) maneja la información cuando utilizas la aplicación.
+Esta política de privacidad explica cómo **Flowonline2** (desarrollado por **PiBOH**, https://github.com/NewstarCoder/flowchart) maneja la información cuando utilizas la aplicación.
 
 ### 2. Datos que recopilamos
 
@@ -221,7 +221,7 @@ Podemos actualizar esta política periódicamente. La versión más reciente sie
 
 ### 7. Contacto
 
-Para preguntas sobre privacidad, abre un issue o usa los métodos de contacto del repositorio en https://github.com/PiBOH/flowonline2.
+Para preguntas sobre privacidad, abre un issue o usa los métodos de contacto del repositorio en https://github.com/NewstarCoder/flowchart.
 
 ---
 

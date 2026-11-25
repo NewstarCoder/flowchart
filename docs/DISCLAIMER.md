@@ -15,7 +15,7 @@ Choose your language / Scegli la lingua / Wählen Sie Ihre Sprache / Choisissez 
 
 ### 1. No Warranty
 
-**Flowonline2** (developed by **PiBOH**, https://github.com/PiBOH/flowonline2) is provided **"as is"**, without warranty of any kind, whether expressed or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the program is with you. Should the program prove defective, you assume the cost of all necessary servicing, repair or correction.
+**Flowonline2** (developed by **PiBOH**, https://github.com/NewstarCoder/flowchart) is provided **"as is"**, without warranty of any kind, whether expressed or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the program is with you. Should the program prove defective, you assume the cost of all necessary servicing, repair or correction.
 
 ### 2. No Liability
 
@@ -49,7 +49,7 @@ We may update this disclaimer from time to time. The latest version is always av
 
 ### 1. Nessuna Garanzia
 
-**Flowonline2** (sviluppato da **PiBOH**, https://github.com/PiBOH/flowonline2) è fornito **"così com'è"**, senza garanzia di alcun tipo, espressa o implicita, incluse ma non limitate alle garanzie implicite di commerciabilità e idoneità a uno scopo particolare. L'intero rischio relativo alla qualità e alle prestazioni del programma è a tuo carico. Se il programma dovesse rivelarsi difettoso, ti assumi il costo di ogni intervento di assistenza, riparazione o correzione necessario.
+**Flowonline2** (sviluppato da **PiBOH**, https://github.com/NewstarCoder/flowchart) è fornito **"così com'è"**, senza garanzia di alcun tipo, espressa o implicita, incluse ma non limitate alle garanzie implicite di commerciabilità e idoneità a uno scopo particolare. L'intero rischio relativo alla qualità e alle prestazioni del programma è a tuo carico. Se il programma dovesse rivelarsi difettoso, ti assumi il costo di ogni intervento di assistenza, riparazione o correzione necessario.
 
 ### 2. Nessuna Responsabilità
 
@@ -83,7 +83,7 @@ Potremmo aggiornare questo disclaimer periodicamente. La versione più recente �
 
 ### 1. Keine Garantie
 
-**Flowonline2** (entwickelt von **PiBOH**, https://github.com/PiBOH/flowonline2) wird **"wie besehen"** ohne jegliche Garantie bereitgestellt, weder ausdrücklich noch stillschweigend, einschließlich, aber nicht beschränkt auf die stillschweigenden Garantien der Marktgängigkeit und der Eignung für einen bestimmten Zweck. Das gesamte Risiko hinsichtlich Qualität und Leistung des Programms liegt bei Ihnen. Sollte sich das Programm als fehlerhaft erweisen, übernehmen Sie die Kosten für alle notwendigen Wartungs-, Reparatur- oder Korrekturarbeiten.
+**Flowonline2** (entwickelt von **PiBOH**, https://github.com/NewstarCoder/flowchart) wird **"wie besehen"** ohne jegliche Garantie bereitgestellt, weder ausdrücklich noch stillschweigend, einschließlich, aber nicht beschränkt auf die stillschweigenden Garantien der Marktgängigkeit und der Eignung für einen bestimmten Zweck. Das gesamte Risiko hinsichtlich Qualität und Leistung des Programms liegt bei Ihnen. Sollte sich das Programm als fehlerhaft erweisen, übernehmen Sie die Kosten für alle notwendigen Wartungs-, Reparatur- oder Korrekturarbeiten.
 
 ### 2. Keine Haftung
 
@@ -117,7 +117,7 @@ Wir können diesen Haftungsausschluss von Zeit zu Zeit aktualisieren. Die neuest
 
 ### 1. Aucune garantie
 
-**Flowonline2** (développé par **PiBOH**, https://github.com/PiBOH/flowonline2) est fourni **« tel quel »**, sans garantie d'aucune sorte, expresse ou implicite, y compris, mais sans s'y limiter, les garanties implicites de qualité marchande et d'adéquation à un usage particulier. L'ensemble du risque quant à la qualité et aux performances du programme vous incombe. Si le programme s'avère défectueux, vous assumez le coût de toute maintenance, réparation ou correction nécessaire.
+**Flowonline2** (développé par **PiBOH**, https://github.com/NewstarCoder/flowchart) est fourni **« tel quel »**, sans garantie d'aucune sorte, expresse ou implicite, y compris, mais sans s'y limiter, les garanties implicites de qualité marchande et d'adéquation à un usage particulier. L'ensemble du risque quant à la qualité et aux performances du programme vous incombe. Si le programme s'avère défectueux, vous assumez le coût de toute maintenance, réparation ou correction nécessaire.
 
 ### 2. Aucune responsabilité
 
@@ -151,7 +151,7 @@ Nous pouvons mettre à jour cet avis de temps à autre. La version la plus réce
 
 ### 1. Sin garantía
 
-**Flowonline2** (desarrollado por **PiBOH**, https://github.com/PiBOH/flowonline2) se proporciona **« tal cual »**, sin garantía de ningún tipo, expresa o implícita, incluida, entre otras, la garantía implícita de comerciabilidad e idoneidad para un fin determinado. Todo el riesgo en cuanto a la calidad y el rendimiento del programa recae sobre usted. Si el programa resultara defectuoso, usted asume el costo de todo el servicio, reparación o corrección necesarios.
+**Flowonline2** (desarrollado por **PiBOH**, https://github.com/NewstarCoder/flowchart) se proporciona **« tal cual »**, sin garantía de ningún tipo, expresa o implícita, incluida, entre otras, la garantía implícita de comerciabilidad e idoneidad para un fin determinado. Todo el riesgo en cuanto a la calidad y el rendimiento del programa recae sobre usted. Si el programa resultara defectuoso, usted asume el costo de todo el servicio, reparación o corrección necesarios.
 
 ### 2. Sin responsabilidad
 

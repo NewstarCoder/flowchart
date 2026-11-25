@@ -13,7 +13,7 @@ body:
   attributes:
     label: Pre-flight Checklist
     options:
-    - label: I am using the [latest release](https://github.com/PiBOH/flowonline2/releases/latest) of Flowonline2.
+    - label: I am using the [latest release](https://github.com/NewstarCoder/flowchart/releases/latest) of Flowonline2.
       required: true
     - label: I have searched existing issues and verified this is not a duplicate.
       required: true
