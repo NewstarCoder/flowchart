@@ -2404,6 +2404,9 @@ Flowonline2 is a web-based replica of Flowgorithm (Windows version 2.0.3).
           <span className="text-[11px] font-semibold text-white font-sans tracking-wide">
             Flowonline2 {appVersion} - {programTitle || 'Untitled'}.fprg
           </span>
+          <span className="ml-3 text-[11px] font-semibold text-yellow-200 font-sans tracking-wide whitespace-nowrap">
+            Computer science teacher Shine-Od.G
+          </span>
         </div>
 
         {/* Windows Frame Minimize / Maximize / Close simulation with custom Win32 warning dialog modal! */}
